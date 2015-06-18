@@ -25,7 +25,7 @@ One thread listener will be created per resource exposed in the PUSH API.
 
 ![Design high level](https://github.com/pradeepvemulakonda/PushApi/blob/master/doc/Push_API_Design.jpg "High Level design")
 
-Registration Sequence
+#### Registration Sequence
 
 ![Register Sequence](https://github.com/pradeepvemulakonda/PushApi/blob/master/doc/Register.jpg "Registration flow")
 
